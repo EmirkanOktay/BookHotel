@@ -3,9 +3,3 @@
 BookHotel is a modern full-stack hotel booking application built with **React**, designed as part of my ongoing full-stack development progression.  
 This project focuses on clean architecture, reusable components, modular folder structure, API integration, state management, and scalable front-end development practices.
 
----
-
-## 📁 Project Structure
-
-The codebase is organized to maintain clarity, scalability, and clean separation of concerns:
-
